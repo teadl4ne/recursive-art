@@ -1,0 +1,20 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+*.class
+
+# SBT & Scala
+target/
+project/target/
+project/project/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Generated SVGs
+*.svg
