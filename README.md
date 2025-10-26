@@ -44,4 +44,5 @@ Adjustable Parameters in MainApp.scala:
 * endColor: RGB tuple defining the color at the tips of the tree
 
 Example Output:
+
 The resulting SVG displays a fractal-like tree with smooth color transitions and varying branch thickness. Each execution may produce a different pattern depending on the random seed and jitter settings.
