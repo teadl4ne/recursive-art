@@ -11,6 +11,7 @@ Features:
 * Outputs artwork as an SVG file for easy viewing
 
 File Overview:
+
 Shape.scala
 Defines the basic geometric shapes used in the drawing, including Point, Line, Circle, Group, and Scene.
 
